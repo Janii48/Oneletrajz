@@ -1,14 +1,113 @@
 h1 {
     text-align: center;
+    padding-top: 30px;
 }
 
 ul {
-    margin-left: 550px;
+    margin-left: 40px;
     margin-top: 80px;
+    padding-left: 0px;
     list-style-type: none;
 }
 
 img {
     height: 150px;
-    margin-left: 1200px;
+    margin-left: 600px;
+    margin-top: -80px;
 }
+
+body {
+    background-color: gray;
+}
+
+div {
+    background-color: white;
+    height: 600px;
+    border-radius: 3%;
+    width: 800px;
+    margin: auto;
+}
+
+h3 {
+    margin-left: 70px;
+    margin-top: -70px;
+}
+
+.behuz {
+    margin-left: 70px;
+    color: black;
+    background-color:white;
+    width: 210px;
+    background-color: rgb(1, 216, 216);
+}
+
+#yellow {
+    background-color: yellow;
+    text-align: center;
+    
+}
+
+a {
+    text-decoration: unset;
+    color: black;
+}
+
+a:hover {
+    background-color: red;
+}
+
+.iskola {
+    margin-left: 70px;
+    padding: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: yellow;
+    width: 422px;
+    text-align: center;
+}
+
+#is {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+#hobby {
+    margin-top: 30px;
+}
+
+.hob {
+    background-color: rgb(1, 216, 216);
+    margin-left: 70px;
+    width: 91px;
+    padding-top: 0px;
+    margin-top: -40px;
+}
+
+#kosar {
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 110px;
+    background-color: lightgreen;
+    height: 82px;
+}
+
+#jordan {
+    width: 200px;
+    margin-left: 550px;
+    margin-top: -1800px;
+}
+
+#tervsz {
+    width: 300px;
+    margin-left: 110px;
+    margin top: 0px;
+    height: 60px;
+    background-color: lightgreen;
+}
+
+#terv {
+    margin-top: 20px;
+}
+
+
+
